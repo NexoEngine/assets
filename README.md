@@ -16,35 +16,39 @@ Here are all asset names, located at the root of the repo:
 
 <table>
   <tr>
-    <td align="center"><img src="NEXO.ai" alt="NEXO.ai" width="100"></td>
-    <td align="center">NEXO.ai</td>
+    <th align="center">Asset</th>
+    <th align="center">Filename</th>
   </tr>
   <tr>
-    <td align="center"><img src="NEXO.svg" alt="NEXO.svg" width="100"></td>
-    <td align="center">NEXO.svg</td>
+    <td align="center"><img src="NEXO.svg" alt="NEXO.svg" width="400"></td>
+    <td align="center"><a href="NEXO.svg">NEXO.svg</a></td>
   </tr>
   <tr>
-    <td align="center"><img src="logo_nexo.png" alt="logo_nexo.png" width="100"></td>
-    <td align="center">logo_nexo.png</td>
+    <td align="center">NEXO.svg Illustrator Source</td>
+    <td align="center"><a href="NEXO.ai">NEXO.ai</a></td>
   </tr>
   <tr>
-    <td align="center"><img src="logo_nexo_fond.png" alt="logo_nexo_fond.png" width="100"></td>
-    <td align="center">logo_nexo_fond.png</td>
+    <td align="center"><img src="logo_nexo.png" alt="logo_nexo.png" width="400"></td>
+    <td align="center"><a href="logo_nexo.png">logo_nexo.png</a></td>
   </tr>
   <tr>
-    <td align="center"><img src="logo_nexo_horizontal_subtitle.png" alt="logo_nexo_horizontal_subtitle.png" width="100"></td>
-    <td align="center">logo_nexo_horizontal_subtitle.png</td>
+    <td align="center"><img src="logo_nexo_fond.png" alt="logo_nexo_fond.png" width="400"></td>
+    <td align="center"><a href="logo_nexo_fond.png">logo_nexo_fond.png</a></td>
   </tr>
   <tr>
-    <td align="center"><img src="logo_nexo_horizontal_subtitle_white.png" alt="logo_nexo_horizontal_subtitle_white.png" width="100"></td>
-    <td align="center">logo_nexo_horizontal_subtitle_white.png</td>
+    <td align="center"><img src="logo_nexo_horizontal_subtitle.png" alt="logo_nexo_horizontal_subtitle.png" width="400"></td>
+    <td align="center"><a href="logo_nexo_horizontal_subtitle.png">logo_nexo_horizontal_subtitle.png</a></td>
   </tr>
   <tr>
-    <td align="center"><img src="logo_nexo_horizontal_title_only.png" alt="logo_nexo_horizontal_title_only.png" width="100"></td>
-    <td align="center">logo_nexo_horizontal_title_only.png</td>
+    <td align="center"><img src="logo_nexo_horizontal_subtitle_white.png" alt="logo_nexo_horizontal_subtitle_white.png" width="400"></td>
+    <td align="center"><a href="logo_nexo_horizontal_subtitle_white.png">logo_nexo_horizontal_subtitle_white.png</a></td>
   </tr>
   <tr>
-    <td align="center"><img src="logo_nexo_horizontal_title_only_white.png" alt="logo_nexo_horizontal_title_only_white.png" width="100"></td>
-    <td align="center">logo_nexo_horizontal_title_only_white.png</td>
+    <td align="center"><img src="logo_nexo_horizontal_title_only.png" alt="logo_nexo_horizontal_title_only.png" width="400"></td>
+    <td align="center"><a href="logo_nexo_horizontal_title_only.png">logo_nexo_horizontal_title_only.png</a></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="logo_nexo_horizontal_title_only_white.png" alt="logo_nexo_horizontal_title_only_white.png" width="400"></td>
+    <td align="center"><a href="logo_nexo_horizontal_title_only_white.png">logo_nexo_horizontal_title_only_white.png</a></td>
   </tr>
 </table>
