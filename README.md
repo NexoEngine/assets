@@ -56,10 +56,6 @@ Here are all asset names, located at the root of the repo:
     <td align="center"><a href="O_nexo.png">O_nexo.png</a></td>
   </tr>
   <tr>
-    <td align="center"><img src="logo_nexo_horizontal_title_only.png" alt="logo_nexo_horizontal_title_only.png" width="400"></td>
-    <td align="center"><a href="logo_nexo_horizontal_title_only.png">logo_nexo_horizontal_title_only.png</a></td>
-  </tr>
-  <tr>
     <td align="center"><img src="gradient_nexo.png" alt="gradient_nexo.png" width="400"></td>
     <td align="center"><a href="gradient_nexo.png">gradient_nexo.png</a></td>
   </tr>
